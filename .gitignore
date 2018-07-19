@@ -1,5 +1,4 @@
 #files to ignore
 php.ini
-README.md
 .htaccess
 node_modules
